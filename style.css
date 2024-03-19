@@ -1,0 +1,42 @@
+body{
+    background-color:cornflowerblue;
+}
+.container{
+   margin: auto;
+   margin-top: 100px;
+    width: 300px;
+    height: 400px;
+    background-color: #fff;
+    text-align: center;
+    background-color: beige;
+    border-radius: 10px;
+}
+h2{
+    color: darkblue;
+}
+.color{
+    width:200px ;
+    height: 200px;
+    margin: auto;
+    box-shadow: 0 10px 10px 5px rgba(14, 26, 112, 0.25);
+    background-color: #fff;
+}
+#hex{
+    background-color: #fff;
+    box-shadow: 0 10px 10px 5px rgba(14, 26, 112, 0.25);
+    width: 150px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+#btn{
+    width: 100px;
+    height: 30px;
+    margin-top: 30px;
+    font-size:20px ;
+    font-weight: 800;
+    background-color: darksalmon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+    cursor: pointer;
+}
